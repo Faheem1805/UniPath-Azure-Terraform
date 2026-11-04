@@ -1,0 +1,4 @@
+resource_group_name  = "YOUR-STATE-RESOURCE-GROUP"
+storage_account_name = "YOUR-STORAGE-ACCOUNT"
+container_name       = "tfstate"
+key                  = "unipath-dev.tfstate"
